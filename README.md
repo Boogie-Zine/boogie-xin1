@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boogie-xin1
 - 👀 I’m interested in Poppin
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on hoan
+- 💞️ I’m looking to collaborate on boogaloo
 - 📫 How to reach me pop
 
 <!---
